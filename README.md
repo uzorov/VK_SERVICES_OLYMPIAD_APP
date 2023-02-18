@@ -3,6 +3,8 @@
 
 Участник: Узоров Кирилл 
 
+Готовое приложение можно скачать по [ссылке](https://github.com/uzorov/VK_SERVICES_OLYMPIAD_APP/releases/tag/v1.0.0)
+
 ## Краткое описание реализации
 * Для реализации приложения был выбран архитектурный паттерн MVVM.
 
@@ -28,6 +30,13 @@
 * Используются сторонние библиотеки только для загрузки изображений, работы с сетью и парсинга JSON;  
 * Используется язык программирования Kotlin.
 
+## Скриншоты результатов выполнения 
 
+![photo_2023-02-18_03-09-34](https://user-images.githubusercontent.com/90005421/219819484-23b6af90-a5ef-4a06-90ba-9464383c0215.jpg)
 
+![photo_2023-02-18_03-09-41](https://user-images.githubusercontent.com/90005421/219819490-4e8a4bd0-d3b2-4f3e-bce1-9a35be80f0a0.jpg)
+
+![photo_2023-02-18_03-09-46](https://user-images.githubusercontent.com/90005421/219819499-c520e927-1a03-4800-84c3-909a97214b5b.jpg)
+
+![photo_2023-02-18_03-09-51](https://user-images.githubusercontent.com/90005421/219819525-5a7a1b96-dee8-46ba-9838-8970fe44ff0d.jpg)
 
